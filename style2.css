@@ -9,7 +9,9 @@ div#contenu {
 	background-color:#33ff00;
 	}
 div#menu{
-	
+	width: 100px;
+	height: 100px;
+	background-color: aquamarine;
 }	
 div#piedpage {
 	width:600px;
